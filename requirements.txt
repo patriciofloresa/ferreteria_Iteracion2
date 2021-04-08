@@ -1,4 +1,4 @@
-django==2.2.10
+django==2.2.20
 django-extensions
 django-debug-toolbar #ver el rendimiento de las consulta SQL y la carga de procesamiento al interior del servidor
 django-allauth==0.41.0
